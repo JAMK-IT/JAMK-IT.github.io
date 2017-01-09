@@ -21,9 +21,6 @@
 		"url": "https://github.com/JAMK-GameDev",
 		"name": "JAMK GAMEDEV organization"
 	}, {
-		"url": "https://github.com/JAMK-IT/IIO12110-ohjelmistotuotannon_kaytannot",
-		"name": "IIO12110 ohjelmistotuotannon käytannöt"
-	}, {
 		"url": "https://github.com/JAMK-IT/IIO12200-ohjelmistoprojekti",
 		"name": "IIO12200 ohjelmistoprojekti"
 	}, {
@@ -35,5 +32,8 @@
  	}, {
 		"url": "https://github.com/JAMK-IT/iim80110-3d-mallintamisen-perusteet",
 		"name": "IIM80110 3D-mallintamisen perusteet"
- 	}]
+ 	},{
+ 		"url": "https://github.com/JAMK-IT/TTZC0800-Tietokannat",
+ 		"name": "TTCZ0800 Tietokannat"
+  	}]
 }
