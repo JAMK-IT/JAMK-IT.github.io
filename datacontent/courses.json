@@ -12,21 +12,21 @@
 		"url": "https://github.com/JAMK-IT/TTOW0110-Advanced-Databases",
 		"name": "TTOW0110 Advanced Databases"
 	}, {
-		"url": "https://github.com/JAMK-IT/TTOS1000-ohjelmistotuotanto",
-		"name": "TTOS1000 ohjelmistotuotanto"
-	}, {
-		"url": "https://github.com/JAMK-IT/TTOS1200-ohjelmistotuotannon-kaytannot",
-		"name": "TTOS1200 ohjelmistotuotannon käytännöt"
-	}, {
-		"url": "http://jamk-it.github.io/TTOS0800-Ohjelmistoprojekti/",
+		"url": "http://jamk-it.github.io/TTOS0800-ohjelmistoprojekti/",
 		"name": "TTOS0800 Ohjelmistoprojekti"
  	}, {
-		"url": "https://jamk-it.github.io/TTOS0900-Jarjestelmatestaus/",
+		"url": "https://jamk-it.github.io/TTOS0900-jarjestelmatestaus/",
 		"name": "TTOS0900 Järjestelmätestaus"
  	}, {
+		"url": "https://github.com/JAMK-IT/TTOS1000-ohjelmistotuotanto",
+		"name": "TTOS1000 Ohjelmistotuotanto"
+	}, {
+		"url": "https://github.com/JAMK-IT/TTOS1200-ohjelmistotuotannon-kaytannot",
+		"name": "TTOS1200 Ohjelmistotuotannon käytännöt"
+	}, {
 		"url": "https://pasimanninen.github.io/TTOW0620-Android-Application-Development",
 		"name": "TTOW0620 Android Application Development"
- 	},{
+ 	}, {
  		"url": "https://github.com/JAMK-IT/TTZC0800-Tietokannat",
  		"name": "TTCZ0800 Tietokannat"
   	}]
