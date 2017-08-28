@@ -15,7 +15,6 @@ html,body{
 }
 
 .container{
-    min-height: 45vh;
     max-width: 900px;
     display: flex;
     flex-direction: row;
