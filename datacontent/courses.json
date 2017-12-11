@@ -35,5 +35,9 @@
   	}, {
  		"url": "https://github.com/JAMK-IT/TTTW0220-Tietoverkkojen-palvelunlaadun-suunnittelu",
  		"name": "TTTW0220 Tietoverkkojen palvelunlaadun suunnittelu"
-  	}]
+  	}, {
+ 		"url": "https://github.com/JAMK-IT/TTOS0200-Olio-ohjelmointi-mediatekniikka",
+ 		"name": "TTOS0200 Olio-ohjelmointi"
+  	}
+	]
 }
