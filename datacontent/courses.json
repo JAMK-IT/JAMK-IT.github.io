@@ -1,12 +1,12 @@
 {
 	"repositories": [{
-		"url": "https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus",
+		"url": "https://gitlab.labranet.jamk.fi/TTOS0100/Ohjelmistosuunnittelu-ja-testaus",
 		"name": "TTOS0100 Ohjelmistosuunnittelu ja testaus"
 	}, {
 		"url": "https://github.com/JAMK-IT/TTOW0211-221-game-development",
 		"name": "TTOW0211 & TTOW0221 Game Development"	
 	}, {
-		"url": "https://gitlab.labranet.jamk.fi/TTOS0100/Ohjelmistosuunnittelu-ja-testaus",
+		"url": "https://github.com/JAMK-IT/TTZC0100-johdatus-internet-teknologioihin",
 		"name": "TTZC0100 Johdatus internet-teknologioihin"	
 	}, {
 		"url": "https://github.com/JAMK-IT/TTOW0110-Advanced-Databases",
